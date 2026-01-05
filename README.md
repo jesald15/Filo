@@ -32,7 +32,12 @@ Files are grouped by extension using a dictionary
 Folders are created based on predefined extension mappings
 Files are moved into their respective folders
 
-Run this code on your terminal: ``python filo.py``
+## Video Tutorial
+
+![filo](https://github.com/user-attachments/assets/f528a576-0606-4942-8fc9-88f6342ca1b8)
+
+
+Run this code on your terminal: ```python filo.py```
 
 Then enter the absolute path of the directory you want to organize (example):
 /home/user/Downloads/
