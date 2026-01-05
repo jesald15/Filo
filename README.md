@@ -29,6 +29,7 @@ Folders are created based on predefined extension mappings
 Files are moved into their respective folders
 
 Just run on your terminal: python filo.py
+
 Then enter the absolute path of the directory you want to organize (example):
 /home/user/Downloads/
 
